@@ -48,4 +48,4 @@ A simple rule engine built with Flask and MongoDB to evaluate custom rules again
 ## Installation
 
 1. **Clone the repository**:
-   ```bashhttps://github.com/user/repo.git
+   ```https://github.com/user/repo.git```
